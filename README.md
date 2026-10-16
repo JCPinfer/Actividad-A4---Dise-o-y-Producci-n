@@ -9,4 +9,3 @@ En este repositorio, se gestionará el desarollo de nuestro proyecto **Shaolin J
 * Pablo Gutiérrez Jiménez
 * Lucia Alcantara Caballero
 * Marcos Henestrosa Rodríguez
-
